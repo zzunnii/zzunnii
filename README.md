@@ -15,6 +15,7 @@
 - 🔭 현재 **가상피팅(Virtual TryOn) 졸업 프로젝트**에 집중하고 있습니다
 - 🌱 **인공지능**과 **컴퓨터 비전** 분야를 깊게 공부하고 있어요
 - 👨‍💻 사이드 프로젝트로 **피부 분석 모델 & 어플**을 개발 중입니다
+- 🤖 새로 나온 **AI 기술을 분석**하고 어떻게 **상업화**할 수 있을지 고민하는 것을 좋아합니다
 - 👯 **오픈소스 프로젝트** 협업을 찾고 있습니다
 - ⚡ 재미있는 사실: **코딩**할 때 괴담라디오 듣는 걸 좋아합니다!
 
@@ -52,7 +53,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzunnii&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=zzunnii&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
