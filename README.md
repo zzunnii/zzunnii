@@ -51,12 +51,12 @@
 ## 📊 GitHub 통계
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zzunnii&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzunnii&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzunnii&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🚀 프로젝트
@@ -65,17 +65,17 @@
   
 ### 🌟 주요 프로젝트
 
-<a href="https://github.com/yourusername/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
+<a href="https://github.com/zzunnii/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=project1&theme=radical" />
 </a>
-<a href="https://github.com/yourusername/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
+<a href="https://github.com/zzunnii/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=project2&theme=radical" />
 </a>
-<a href="https://github.com/yourusername/project3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=radical" />
+<a href="https://github.com/zzunnii/project3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=project3&theme=radical" />
 </a>
-<a href="https://github.com/yourusername/project4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=radical" />
+<a href="https://github.com/zzunnii/project4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=project4&theme=radical" />
 </a>
 
 </div>
@@ -87,14 +87,14 @@
 [![Email](https://img.shields.io/badge/Email-youremail@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://yourwebsite.com)
-[![Twitter](https://img.shields.io/badge/Twitter-yourusername-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-zzunnii-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zzunnii)
 
 </div>
 
 <div align="center">
   
   ### 방문자 수
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zzunnii.zzunnii)
   
 </div>
 
