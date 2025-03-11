@@ -48,20 +48,14 @@
 
 ## 📊 GitHub 통계
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzunnii&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" />
-</div>
+<!-- GitHub 통계 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzunnii&show_icons=true&theme=tokyonight&hide_rank=true)
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=zzunnii&theme=tokyonight&border_radius=15&locale=ko" alt="GitHub Streak" />
-  </a>
-</div>
+<!-- 언어 통계 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzunnii&layout=compact&theme=tokyonight)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzunnii&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
+<!-- GitHub Streak를 다른 방식으로 표시 -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzunnii&theme=tokyonight)
 ## 🚀 프로젝트
 
 <div align="center">
