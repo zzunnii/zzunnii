@@ -34,17 +34,14 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 프로그래밍 언어
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### LLM & AI 기술
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![ONNX](https://img.shields.io/badge/-ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-
-### 도구 & 기타
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -66,28 +63,28 @@
 
 <div align="center">
   
-### 🌟 주요 프로젝트
+### 💡 인공지능 & 컴퓨터 비전 프로젝트
 
 <a href="https://github.com/zzunnii/HumanParsing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=HumanParsing&theme=tokyonight" />
 </a>
-<a href="https://github.com/zzunnii/AirMouse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=AirMouse&theme=tokyonight" />
+<a href="https://github.com/zzunnii/PoseEstimation_Recognition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=PoseEstimation_Recognition&theme=tokyonight" />
 </a>
-<a href="https://github.com/zzunnii/awesome-reference-code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=awesome-reference-code&theme=tokyonight" />
-</a>
-<a href="https://github.com/zzunnii/FruitClassification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=FruitClassification&theme=tokyonight" />
-</a>
-
-### 💡 인공지능 & 컴퓨터 비전 프로젝트
-
 <a href="https://github.com/zzunnii/FakeAudioDetectionForHoseoUni">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=FakeAudioDetectionForHoseoUni&theme=tokyonight" />
 </a>
-<a href="https://github.com/zzunnii/PoseEstimation_Recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=PoseEstimation_Recognition&theme=tokyonight" />
+
+### 🌟 사이드 프로젝트
+
+<a href="https://github.com/zzunnii/awesome-reference-code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=awesome-reference-code&theme=tokyonight" />
+</a>
+<a href="https://github.com/zzunnii/AirMouse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=AirMouse&theme=tokyonight" />
+</a>
+<a href="https://github.com/zzunnii/FruitClassification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=FruitClassification&theme=tokyonight" />
 </a>
 
 </div>
@@ -96,10 +93,8 @@
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-youremail@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-tjdwns7488@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tjdwns7488@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-zzunnii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zzunnii)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://yourwebsite.com)
-[![Twitter](https://img.shields.io/badge/Twitter-zzunnii-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zzunnii)
 
 </div>
 
