@@ -54,7 +54,7 @@
 
 <div align="center">
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-delta-brown.vercel.app?user=zzunnii&theme=tokyonight&border_radius=40&locale=ko" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats-blue-eight.vercel.app?user=zzunnii&theme=tokyonight&border_radius=25&locale=ko)](https://git.io/streak-stats)
 
 </div>
 
