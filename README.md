@@ -53,9 +53,9 @@
 </div>
 
 <div align="center">
-  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zzunnii&theme=tokyonight&border_radius=15&locale=ko" alt="GitHub Streak" /></a>
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=zzunnii&theme=tokyonight&border_radius=15&locale=ko" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
