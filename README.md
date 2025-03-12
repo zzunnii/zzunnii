@@ -1,4 +1,4 @@
-# 안녕하세요 👋 쭈니 포트폴리오에 오신 것을 환영합니다!
+# 안녕하세요 👋 쭈니 Github에 오신 것을 환영합니다!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=AI+Developer;Computer+Vision+Specialist;Open+Source+Contributor" alt="Typing SVG" />
