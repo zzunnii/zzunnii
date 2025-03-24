@@ -74,6 +74,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=FakeAudioDetectionForHoseoUni&theme=tokyonight" />
 </a>
 
+### 🤖 LLM 프로젝트
+<a href="[https://github.com/zzunnii/HumanParsing](https://github.com/zzunnii/HansolDeco-Construction-Safety-LLM)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=HansolDeco-Construction-Safety-LLM&theme=tokyonight" />
+</a>
+
 ### 🌟 사이드 프로젝트
 
 <a href="https://github.com/zzunnii/awesome-reference-code">
