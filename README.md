@@ -75,7 +75,7 @@
 </a>
 
 ### 🤖 LLM 프로젝트
-<a href="[https://github.com/zzunnii/HumanParsing](https://github.com/zzunnii/HansolDeco-Construction-Safety-LLM)">
+<a href="https://github.com/zzunnii/HansolDeco-Construction-Safety-LLM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=HansolDeco-Construction-Safety-LLM&theme=tokyonight" />
 </a>
 
