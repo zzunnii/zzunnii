@@ -46,7 +46,6 @@
  | **날짜** | **대회명** | **수상**  |**주최**  |
  | -------- | ------------|:-----------:|----------- |
  |`2025.03`|[**한솔데코 시즌3 AI 경진대회(LLM)**](https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=HansolDeco-Construction-Safety-LLM) | **214위** (Public) /  **21위** (Private)| Dacon - 한솔데코 |
- |`2025.03`|[**한솔데코 시즌3 AI 경진대회(LLM)**](https://github.com/zzunnii/HansolDeco-Construction-Safety-LLM) | **214위** (Public) /  **21위** (Private)| Dacon - 한솔데코 |
  |`2025.03`|[**채무 불이행 여부 예측 해커톤(Classification)**](https://dacon.io/competitions/open/236450/codeshare/12275) | **6위** (Public) / **12위** (Private)| Dacon |
 
 ## 📊 GitHub 통계
