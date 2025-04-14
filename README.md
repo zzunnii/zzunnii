@@ -42,30 +42,12 @@
 
 </div>
 
-<table style="background-color: #1a1b26; color: #c0caf5; border: 1px solid #414868; width: 100%; border-collapse: collapse;">
-  <thead>
-    <tr style="background-color: #24283b; text-align: center;">
-      <th style="padding: 10px; border: 1px solid #414868;">🏆 날짜</th>
-      <th style="padding: 10px; border: 1px solid #414868;">대회명</th>
-      <th style="padding: 10px; border: 1px solid #414868;">수상</th>
-      <th style="padding: 10px; border: 1px solid #414868;">주최</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="text-align: center;">
-      <td style="padding: 10px; border: 1px solid #414868;">2025.03</td>
-      <td style="padding: 10px; border: 1px solid #414868;"><a href="https://github.com/zzunnii/HansolDeco-Construction-Safety-LLM" style="color: #7aa2f7; text-decoration: none;">한솔데코 시즌3 AI 경진대회(LLM)</a></td>
-      <td style="padding: 10px; border: 1px solid #414868;">214위 (Public) / 21위 (Private)</td>
-      <td style="padding: 10px; border: 1px solid #414868;">Dacon - 한솔데코</td>
-    </tr>
-    <tr style="text-align: center;">
-      <td style="padding: 10px; border: 1px solid #414868;">2025.03</td>
-      <td style="padding: 10px; border: 1px solid #414868;"><a href="https://dacon.io/competitions/open/236450/codeshare/12275" style="color: #7aa2f7; text-decoration: none;">채무 불이행 여부 예측 해커톤(Classification)</a></td>
-      <td style="padding: 10px; border: 1px solid #414868;">6위 (Public) / 12위 (Private)</td>
-      <td style="padding: 10px; border: 1px solid #414868;">Dacon</td>
-    </tr>
-  </tbody>
-</table>
+## 🏆 COMPETITION
+ | **날짜** | **대회명** | **수상**  |**주최**  |
+ | -------- | ------------|:-----------:|----------- |
+ |`2025.03`|[**한솔데코 시즌3 AI 경진대회(LLM)**](https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=HansolDeco-Construction-Safety-LLM) | **214위** (Public) /  **21위** (Private)| Dacon - 한솔데코 |
+ |`2025.03`|[**한솔데코 시즌3 AI 경진대회(LLM)**](https://github.com/zzunnii/HansolDeco-Construction-Safety-LLM) | **214위** (Public) /  **21위** (Private)| Dacon - 한솔데코 |
+ |`2025.03`|[**채무 불이행 여부 예측 해커톤(Classification)**](https://dacon.io/competitions/open/236450/codeshare/12275) | **6위** (Public) / **12위** (Private)| Dacon |
 
 ## 📊 GitHub 통계
 
