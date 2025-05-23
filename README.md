@@ -73,9 +73,6 @@
 <a href="https://github.com/zzunnii/HumanParsing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=HumanParsing&theme=tokyonight" />
 </a>
-<a href="https://github.com/zzunnii/PoseEstimation_Recognition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=PoseEstimation_Recognition&theme=tokyonight" />
-</a>
 <a href="https://github.com/zzunnii/FakeAudioDetectionForHoseoUni">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=FakeAudioDetectionForHoseoUni&theme=tokyonight" />
 </a>
@@ -83,6 +80,14 @@
 ### 🤖 LLM 프로젝트
 <a href="https://github.com/zzunnii/HansolDeco-Construction-Safety-LLM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=HansolDeco-Construction-Safety-LLM&theme=tokyonight" />
+</a>
+
+### 👥 팀 프로젝트
+<a href="https://github.com/zzunnii/InteriorDefectClassification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=InteriorDefectClassification&theme=tokyonight" />
+</a>
+<a href="https://github.com/zzunnii/PoseEstimation_Recognition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=PoseEstimation_Recognition&theme=tokyonight" />
 </a>
 
 ### 🌟 사이드 프로젝트
