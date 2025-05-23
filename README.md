@@ -70,6 +70,9 @@
   
 ### 💡 인공지능 & 컴퓨터 비전 프로젝트
 
+<a href="https://github.com/zzunnii/TryOnAPI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=TryOnAPI&theme=tokyonight" />
+</a>
 <a href="https://github.com/zzunnii/HumanParsing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzunnii&repo=HumanParsing&theme=tokyonight" />
 </a>
